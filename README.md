@@ -37,7 +37,7 @@ You will be creating a REST API that works with a "data" source of questions and
 
 
 
-## Extra Credit
+## Extra Credit:
 
 This project has many extra credit opportunities (40 points!); however, you must attempt all required elements before any extra credit points will be awarded:
 
